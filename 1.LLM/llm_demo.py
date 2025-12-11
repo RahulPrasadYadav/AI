@@ -11,3 +11,5 @@ response = llm.invoke("What is the capital of India?")
 
 # FIX: Print response.content to see just the text answer
 print(response.content)
+
+
