@@ -8,7 +8,7 @@
    prompts:
    prompts are the input instruction or queries given to model to guide its output 
 
-""" 
+"""
 
 
 
